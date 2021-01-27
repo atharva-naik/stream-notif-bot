@@ -1,0 +1,5 @@
+praw
+tqdm
+dotenv
+datetime
+ansicolors
